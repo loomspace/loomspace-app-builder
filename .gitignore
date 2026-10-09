@@ -1,0 +1,9 @@
+.env*
+!.env.example
+node_modules/
+.next/
+data/
+*.sqlite
+*.tsbuildinfo
+next-env.d.ts
+.loomspace-admin-password
